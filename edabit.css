@@ -1,0 +1,15 @@
+h1 {
+    text-align: center;
+    color: tomato;
+    background-color: aquamarine;
+    border: 4px solid lightgreen;
+    padding: 20px 0px;
+    border-radius: 0.9rem;
+}
+
+h1:hover {
+    background-color: bisque;
+    color: blueviolet;
+    transition: 0.5s;
+
+}
